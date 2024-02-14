@@ -125,7 +125,7 @@ saab 99le,24,4,121,110,2660,14,73,europe
 toyota mark ii,20,6,156,122,2807,13.5,73,japan
 oldsmobile omega,11,8,350,180,3664,11,73,usa
 plymouth duster,20,6,198,95,3102,16.5,74,usa
-ford maverick,21,6,200,,2875,17,74,usa
+ford maverick,21,6,200,90,2875,17,74,usa
 amc hornet,19,6,232,100,2901,16,74,usa
 chevrolet nova,15,6,250,100,3336,17,74,usa
 datsun b210,31,4,79,67,1950,19,74,japan
@@ -329,13 +329,13 @@ vw dasher (diesel),43.4,4,90,48,2335,23.7,80,europe
 audi 5000s (diesel),36.4,5,121,67,2950,19.9,80,europe
 mercedes-benz 240d,30,4,146,67,3250,21.8,80,europe
 honda civic 1500 gl,44.6,4,91,67,1850,13.8,80,japan
-renault lecar deluxe,40.9,4,85,,1835,17.3,80,europe
+renault lecar deluxe,40.9,4,85,70,1835,17.3,80,europe
 subaru dl,33.8,4,97,67,2145,18,80,japan
 vokswagen rabbit,29.8,4,89,62,1845,15.3,80,europe
 datsun 280-zx,32.7,6,168,132,2910,11.4,80,japan
 mazda rx-7 gs,23.7,3,70,100,2420,12.5,80,japan
 triumph tr7 coupe,35,4,122,88,2500,15.1,80,europe
-ford mustang cobra,23.6,4,140,,2905,14.3,80,usa
+ford mustang cobra,23.6,4,140,88,2905,14.3,80,usa
 honda accord,32.4,4,107,72,2290,17,80,japan
 plymouth reliant,27.2,4,135,84,2490,15.7,81,usa
 buick skylark,26.6,4,151,84,2635,16.4,81,usa
@@ -353,7 +353,7 @@ plymouth horizon 4,34.7,4,105,63,2215,14.9,81,usa
 ford escort 4w,34.4,4,98,65,2045,16.2,81,usa
 ford escort 2h,29.9,4,98,65,2380,20.7,81,usa
 volkswagen jetta,33,4,105,74,2190,14.2,81,europe
-renault 18i,34.5,4,100,,2320,15.8,81,europe
+renault 18i,34.5,4,100,75,2320,15.8,81,europe
 honda prelude,33.7,4,107,75,2210,14.4,81,japan
 toyota corolla,32.4,4,108,75,2350,16.8,81,japan
 datsun 200sx,32.9,4,119,100,2615,14.8,81,japan
@@ -373,7 +373,7 @@ pontiac j2000 se hatchback,31,4,112,85,2575,16.2,82,usa
 dodge aries se,29,4,135,84,2525,16,82,usa
 pontiac phoenix,27,4,151,90,2735,18,82,usa
 ford fairmont futura,24,4,140,92,2865,16.4,82,usa
-amc concord dl,23,4,151,,3035,20.5,82,usa
+amc concord dl,23,4,151,98,3035,20.5,82,usa
 volkswagen rabbit l,36,4,105,74,1980,15.3,82,europe
 mazda glc custom l,37,4,91,68,2025,18.2,82,japan
 mazda glc custom,31,4,91,68,1970,17.6,82,japan
